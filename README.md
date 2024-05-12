@@ -4,7 +4,7 @@ Welcome to the C++ Projects Repository! This repository contains small and mediu
 
 ## Projects
 
-- [Project 1: Streamlined Airline Reservation System](./Project1/README.md)
+- [Project 1: Streamlined Airline Reservation System](./Airline_Reservation)
   
   - Description: A simple yet efficient airline reservation system that enables users to reserve seats on available flights. The system maintains a database of flights with details on flight number, departure, destination, and available seats. Users can browse through available flights, select a flight by its number, and reserve a seat if seats are available. The system automatically updates the seat availability upon successful reservation.
     
