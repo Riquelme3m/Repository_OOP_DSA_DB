@@ -9,6 +9,12 @@ Welcome to the C++ Projects Repository! This repository contains small and mediu
   - Description: A simple yet efficient airline reservation system that enables users to reserve seats on available flights. The system maintains a database of flights with details on flight number, departure, destination, and available seats. Users can browse through available flights, select a flight by its number, and reserve a seat if seats are available. The system automatically updates the seat availability upon successful reservation.
     
   - Technologies: C++,MySQL.
+
+- [Project 2: Hostel Accomodation with File Handling](./Hostel_Accommodation)
+  
+  - Description: A straightforward and functional hostel accommodation system designed for managing hostel bed reservations. The system maintains records of hostels including name, rent, and bed availability using .txt files. Users can enter student details and reserve a bed if available. Upon successful reservation, the system updates the bed count automatically, ensuring accurate availability data at all times..
+    
+  - Technologies: C++.
   
 <!-- Add more projects as needed -->
 
